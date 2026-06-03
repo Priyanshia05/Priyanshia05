@@ -1,18 +1,98 @@
-💫 About Me:
- Hi there 👋, I'm Priyanshi Agarwal<br><br>### Computer Science Engineering Student | Python & DSA Enthusiast | Aspiring Software Developer<br><br>I am a passionate Computer Science Engineering student at JECRC University with a strong interest in software development, data structures & algorithms, and problem-solving. I enjoy building impactful solutions, exploring new technologies, and continuously improving my technical skills through projects, coding challenges, and collaborative learning.<br><br>Currently, I am focused on strengthening my foundation in software engineering, web development, database management systems, and competitive programming while working on projects that solve real-world problems.<br><br>---<br><br>## 🚀 About Me<br><br>* 🎓 B.Tech in Computer Science Engineering (2nd Year)<br>* 💻 Python & DSA Enthusiast<br>* 🌱 Currently learning Full-Stack Development and Advanced DSA<br>* 🚀 Co-Founder of JU Help App<br>* 🤝 Open to collaboration on innovative and impactful projects<br>* 📚 Dedicated to continuous learning and skill development<br><br>---<br><br> 🛠️ Technical Skills<br><br>### Languages<br><br>* Python<br>* C++<br>* C<br>* Java<br>* SQL<br><br> Web Technologies<br><br>* HTML5<br>* CSS3<br>* JavaScript<br>* React.js (Learning)<br><br> Database Technologies<br><br>* MySQL<br>* DBMS<br><br> Tools & Platforms<br><br> Git<br>* GitHub<br>* VS Code<br>* Linux<br><br>---<br><br>## 🌱 Currently Exploring<br><br>* Data Structures & Algorithms<br>* Full-Stack Web Development<br>* Open Source Contributions<br>* Software Engineering Best Practices<br><br>---<br><br>#📈 GitHub Goals<br><br>* Build scalable and user-centric applications<br>* Contribute to open-source projects<br>* Strengthen problem-solving skills through DSA<br>* Continuously learn modern development technologies<br><br>---<br><br> 🌐 Connect With Me<br><br>* LinkedIn: [www.linkedin.com/in/priyanshi-agarwal-21baa42aa/](http://www.linkedin.com/in/priyanshi-agarwal-21baa42aa/)<br>* GitHub: https://github.com/YOUR_USERNAME<br><br>---<br><br> 💡 Quote<br><br>"Consistency in learning and building is the foundation of great software."<br>
+<div align="center">
 
+# Hi 👋, I'm Priyanshi Agarwal
 
- 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwalpriyanshi110@gmail.com) 
+### Computer Science Engineering Student • Python Developer • DSA Enthusiast
 
- 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
- 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Priyanshia05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Priyanshia05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Priyanshia05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=Priyanshia05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Priyanshia05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 Pursuing B.Tech in Computer Science Engineering at JECRC University
+
+💻 Passionate about Software Development, Problem Solving, and Emerging Technologies
+
+🚀 Co-Founder of JU Help App
+
+🌱 Currently learning Full-Stack Development, Data Structures & Algorithms, and System Design fundamentals
+
+🔍 Interested in Web Development, Open Source, and Building Products that create real-world impact
+
+🤝 Open to collaboration on innovative projects and hackathons
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Full-Stack Web Development
+* Database Management Systems
+* Operating Systems
+* Object-Oriented Programming
+
+---
+
+## 🎯 2026 Goals
+
+* Solve 500+ DSA problems
+* Build impactful software projects
+* Contribute to Open Source
+* Strengthen Full-Stack Development skills
+* Secure a Software Development Internship
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Priyanshia05\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshia05\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshia05\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** [agarwalpriyanshi110@gmail.com](mailto:agarwalpriyanshi110@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/priyanshi-agarwal-21baa42aa/
+
+🐙 **GitHub:** https://github.com/Priyanshia05
+
+---
+
+<div align="center">
+
+### ✨ "Learning, Building, and Growing Every Day."
+
+</div>
